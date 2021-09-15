@@ -2,7 +2,7 @@ name: Update the picture of the day
 
 on:
   schedule:
-    - cron: "1 1 * * *"
+    - cron: "59 15 * * *"
   workflow_dispatch: 
 
 jobs:
