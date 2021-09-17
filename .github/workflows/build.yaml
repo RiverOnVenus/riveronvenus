@@ -25,7 +25,7 @@ jobs:
       run: |
         git config --local user.email "RiverOnVenus@gmail.com"
         git config --local user.name "RiverOnVenus(bot)"
-        git commit -m "Update today's featured image on $(date +%Y-%m-%d)" -a
+        git commit -m "🤖Update today's featured image on $(date +%Y-%m-%d)" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
