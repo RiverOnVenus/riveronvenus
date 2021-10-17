@@ -1,4 +1,4 @@
 
-![Bee hummingbird](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bee_hummingbird_%28Mellisuga_helenae%29_immature_male.jpg/525px-Bee_hummingbird_%28Mellisuga_helenae%29_immature_male.jpg)
+![William P. Fessenden](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/FESSENDEN%2C_William_P-Treasury_%28BEP_engraved_portrait%29.jpg/450px-FESSENDEN%2C_William_P-Treasury_%28BEP_engraved_portrait%29.jpg)
 
-*[Bee hummingbird](https://wikipedia.org/wiki/File:Bee_hummingbird_(Mellisuga_helenae)_immature_male.jpg)*
+*[William P. Fessenden](https://wikipedia.org/wiki/File:FESSENDEN,_William_P-Treasury_(BEP_engraved_portrait).jpg)*
