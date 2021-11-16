@@ -1,4 +1,4 @@
 
-![La Esmeralda](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Charles-Antoine_Cambon_-_La_Esmeralda%2C_Act_3%2C_Scene_2_set.jpg/600px-Charles-Antoine_Cambon_-_La_Esmeralda%2C_Act_3%2C_Scene_2_set.jpg)
+![Capitolium of Brixia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tempio_Capitolino_Piazza_del_Foro_Brescia.jpg/525px-Tempio_Capitolino_Piazza_del_Foro_Brescia.jpg)
 
-*[La Esmeralda](https://wikipedia.org/wiki/File:Charles-Antoine_Cambon_-_La_Esmeralda,_Act_3,_Scene_2_set.jpg)*
+*[Capitolium of Brixia](https://wikipedia.org/wiki/File:Tempio_Capitolino_Piazza_del_Foro_Brescia.jpg)*
