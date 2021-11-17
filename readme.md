@@ -1,4 +1,4 @@
 
-![Capitolium of Brixia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tempio_Capitolino_Piazza_del_Foro_Brescia.jpg/525px-Tempio_Capitolino_Piazza_del_Foro_Brescia.jpg)
+![Cheetah](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cheetah_%28Acinonyx_jubatus%29_cub.jpg/525px-Cheetah_%28Acinonyx_jubatus%29_cub.jpg)
 
-*[Capitolium of Brixia](https://wikipedia.org/wiki/File:Tempio_Capitolino_Piazza_del_Foro_Brescia.jpg)*
+*[Cheetah](https://wikipedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_cub.jpg)*
