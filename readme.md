@@ -1,4 +1,4 @@
 
-![A Meeting in the Royal Danish Academy of Sciences and Letters](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/P.S._Kr%C3%B8yer%2C_Et_m%C3%B8de_i_Videnskabernes_Selskab%2C_1897%2C_Det_Kongelige_Danske_Videnskaberners_Selskab.jpg/900px-P.S._Kr%C3%B8yer%2C_Et_m%C3%B8de_i_Videnskabernes_Selskab%2C_1897%2C_Det_Kongelige_Danske_Videnskaberners_Selskab.jpg)
+![Walchensee Hydroelectric Power Station](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Central_hidroel%C3%A9ctrica_de_Walchensee%2C_Kochel%2C_Baviera%2C_Alemania%2C_2014-03-22%2C_DD_04.JPG/525px-Central_hidroel%C3%A9ctrica_de_Walchensee%2C_Kochel%2C_Baviera%2C_Alemania%2C_2014-03-22%2C_DD_04.JPG)
 
-*[A Meeting in the Royal Danish Academy of Sciences and Letters](https://wikipedia.org/wiki/File:P.S._Kr%C3%B8yer,_Et_m%C3%B8de_i_Videnskabernes_Selskab,_1897,_Det_Kongelige_Danske_Videnskaberners_Selskab.jpg)*
+*[Walchensee Hydroelectric Power Station](https://wikipedia.org/wiki/File:Central_hidroel%C3%A9ctrica_de_Walchensee,_Kochel,_Baviera,_Alemania,_2014-03-22,_DD_04.JPG)*
