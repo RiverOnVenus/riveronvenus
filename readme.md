@@ -1,4 +1,4 @@
 
-![Oliver Wolcott Jr.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/WOLCOTT%2C_Oliver-Treasury_%28BEP_engraved_portrait%29.jpg/450px-WOLCOTT%2C_Oliver-Treasury_%28BEP_engraved_portrait%29.jpg)
+![Queen bee](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Apis_mellifera_scutellata_1355021.jpg/450px-Apis_mellifera_scutellata_1355021.jpg)
 
-*[Oliver Wolcott Jr.](https://wikipedia.org/wiki/File:WOLCOTT,_Oliver-Treasury_(BEP_engraved_portrait).jpg)*
+*[Queen bee](https://wikipedia.org/wiki/File:Apis_mellifera_scutellata_1355021.jpg)*
