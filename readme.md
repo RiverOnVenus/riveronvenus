@@ -1,4 +1,4 @@
 
-![Severe acute respiratory syndrome coronavirus 2](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SARS-CoV-2_scanning_electron_microscope_image.jpg/600px-SARS-CoV-2_scanning_electron_microscope_image.jpg)
+![Diagram of a horse's skeletal system](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Horse_anatomy.svg/1125px-Horse_anatomy.svg.png)
 
-*[Severe acute respiratory syndrome coronavirus 2](https://wikipedia.org/wiki/File:SARS-CoV-2_scanning_electron_microscope_image.jpg)*
+*[Diagram of a horse's skeletal system](https://wikipedia.org/wiki/File:Horse_anatomy.svg)*
