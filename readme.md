@@ -1,4 +1,4 @@
 
-![Hygrocybe miniata](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hygrocybe_miniata_-_Ferndale_Park.jpg/525px-Hygrocybe_miniata_-_Ferndale_Park.jpg)
+![Pattie Ruffner Jacobs](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Patti_Ruffner_Jacobs.jpg/450px-Patti_Ruffner_Jacobs.jpg)
 
-*[Hygrocybe miniata](https://wikipedia.org/wiki/File:Hygrocybe_miniata_-_Ferndale_Park.jpg)*
+*[Pattie Ruffner Jacobs](https://wikipedia.org/wiki/File:Patti_Ruffner_Jacobs.jpg)*
