@@ -1,4 +1,4 @@
 
-![Richèl Hogenkamp](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rich%C3%A8l_Hogenkamp_-_Masters_de_Madrid_2015_-_11.jpg/600px-Rich%C3%A8l_Hogenkamp_-_Masters_de_Madrid_2015_-_11.jpg)
+![1906 San Francisco earthquake](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Post-and-Grant-Avenue-Look.jpg/600px-Post-and-Grant-Avenue-Look.jpg)
 
-*[Richèl Hogenkamp](https://wikipedia.org/wiki/File:Rich%C3%A8l_Hogenkamp_-_Masters_de_Madrid_2015_-_11.jpg)*
+*[1906 San Francisco earthquake](https://wikipedia.org/wiki/File:Post-and-Grant-Avenue-Look.jpg)*
